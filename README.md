@@ -34,7 +34,8 @@ Sigue estos pasos para clonar y ejecutar el proyecto en tu entorno local:
 
 4. **Configurar la Base de Datos:**
 
-    Antes de ejecutar la aplicación, asegúrate de que la cadena de conexión a la base de datos sea válida en el archivo `appsettings.json`. Puedes utilizar una base de datos local o remota según tus necesidades.
+    Antes de ejecutar la aplicación, asegúrate de que la cadena de conexión a la base de datos sea válida en el archivo `appsettings.json`. Puedes utilizar una base de datos local o remota según tus necesidades. 
+    En éste ejemplo se utiliza Postgres.
 
 5. **Aplicar Migraciones:**
 
